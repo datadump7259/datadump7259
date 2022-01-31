@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @datadump7259
-- 👀 I’m interested in writing Code and Desiging Website
+- 👀 I’m interested in writing Code and Designing Website
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
